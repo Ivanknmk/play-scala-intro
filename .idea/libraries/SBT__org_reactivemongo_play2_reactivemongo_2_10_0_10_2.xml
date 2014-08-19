@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.reactivemongo:play2-reactivemongo_2.10:0.10.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.ivy/cache/org.reactivemongo/play2-reactivemongo_2.10/jars/play2-reactivemongo_2.10-0.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.sorm-framework:sorm:0.3.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.ivy/cache/org.sorm-framework/sorm/jars/sorm-0.3.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
